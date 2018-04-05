@@ -1,0 +1,30 @@
+    body{
+background: white;
+padding: 0; 
+margin: 0;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20; 
+line-height: 150%; 
+color: black;
+}
+
+    header {
+background: black; 
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+font-size: 45; 
+line-height: 200%; 
+color: white; 
+padding: 5; 
+margin: 10; 
+}
+    h1 {
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: black; 
+font-size: 30; 
+}
+
+    p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black; 
+    font-size: 20; 
+}
